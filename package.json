@@ -1,6 +1,6 @@
 {
-  "name": "auto-launch",
-  "version": "5.0.5",
+  "name": "@artemv/auto-launch",
+  "version": "6.0.2",
   "description": "Launch node applications or executables at login (Mac, Windows, and Linux)",
   "main": "dist/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/4ver/node-auto-launch"
+    "url": "https://github.com/artemv/node-auto-launch"
   },
   "keywords": [
     "login",
